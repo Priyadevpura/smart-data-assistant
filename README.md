@@ -56,3 +56,7 @@ As an aspiring **Data Analyst**, I wanted to showcase:
 git clone https://github.com/Priyadevpura/smart-data-assistant.git
 cd smart-data-assistant
 
+pip install -r requirements.txt
+
+streamlit run data_assistant.py
+
